@@ -1,0 +1,19 @@
+{
+  "name": "chalkpack",
+  "version": "1.0.0",
+  "description": "chalk package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LoreRey/npmpackage.git"
+  },
+  "author": "Lorena Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoreRey/npmpackage/issues"
+  },
+  "homepage": "https://github.com/LoreRey/npmpackage#readme"
+}
