@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LoreRey/npmpackage/issues"
   },
-  "homepage": "https://github.com/LoreRey/npmpackage#readme"
+  "homepage": "https://github.com/LoreRey/npmpackage#readme",
+  "dependencies": {
+    "chalk": "^2.3.1"
+  }
 }

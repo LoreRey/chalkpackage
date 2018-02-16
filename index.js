@@ -1,4 +1,4 @@
 var chalk = require("chalk");
 
-var message = "Hello " + chalk.yellow("World");
+var message = chalk.blue("Hello ") + chalk.red("World");
 console.log(message);
